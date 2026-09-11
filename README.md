@@ -1,2 +1,2 @@
 # ignore this #
-this is assets for azure, feel free to use them idrc
+this is assets for astral.club, feel free to use them idrc
